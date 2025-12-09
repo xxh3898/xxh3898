@@ -46,6 +46,8 @@
 
 </div>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chiho3898)](https://solved.ac/profile/chiho3898)
+
 ---
 
 ## 🌍 나와 연결하기
