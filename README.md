@@ -38,15 +38,14 @@
 ## 📊 GitHub 통계
 <div align="center">
   
-  <!-- 깃허브 활동 통계 카드 -->
   <img src="https://github-readme-stats.vercel.app/api?username=xxh3898&show_icons=true&theme=radical&hide_border=true" height="180px"/>    
-<br>
-  <!-- 가장 많이 사용한 언어 카드 -->
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxh3898&layout=compact&theme=radical&hide_border=true" height="180px"/>
+  <br>
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chiho3898)](https://solved.ac/profile/chiho3898)
 
 </div>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chiho3898)](https://solved.ac/profile/chiho3898)
 
 ---
 
