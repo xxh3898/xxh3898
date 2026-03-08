@@ -37,9 +37,9 @@
 ## 📊 GitHub 통계
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=xxh3898&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&cache_seconds=1800" height="180px"/>    
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxh3898&layout=compact&theme=radical&hide_border=true&langs_count=10&hide_title=false&size_weight=0.5&count_weight=0.5&cache_seconds=1800" height="180px"/>
+![](./profile-3d-contrib/profile-night-green.svg)
+
+
   <br>
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chiho3898&theme=dark)](https://solved.ac/profile/chiho3898)
