@@ -94,6 +94,10 @@ SQL 로그, 애플리케이션 조회 구조, 인프라 지표를 함께 보며 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chiho3898&theme=dark)](https://solved.ac/profile/chiho3898)
 
+<br>
+
+<img src="https://raw.githubusercontent.com/xxh3898/CodingTests/main/assets/programmers-card.svg" alt="Programmers Progress" />
+
 </div>
 
 ---
